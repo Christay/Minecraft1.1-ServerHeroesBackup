@@ -1,0 +1,301 @@
+2012-03-03 19:23:55 [WARNING] [Heroes] File experience.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File damages.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File recipes.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File citizen.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File rogue.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File cleric.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File mage.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File warrior.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File permission-skills.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Debug] Citizen has no permitted-armor section
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Weapons -  FISHING_ROD SHEARS STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE
+2012-03-03 19:23:55 [INFO] [Heroes] Default class found: Citizen
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Citizen
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS DIAMOND_HELMET DIAMOND_LEGGINGS DIAMOND_CHESTPLATE DIAMOND_BOOTS
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Port defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Invuln defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Pray defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Harmtouch defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Wisdom defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Slow defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Groupheal defined for Cleric not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Cleric
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Port defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Icebolt defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Piggify defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Fireball defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Wisdom defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Wolf defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Blink defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Web defined for Mage not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Mage
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD GOLD_SWORD DIAMOND_SWORD BOW
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Port defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Sneak defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Jump defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill AssassinsBlade defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill EscapeArtist defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Smoke defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Backstab defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Curse defined for Rogue not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Rogue
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS CHAINMAIL_HELMET CHAINMAIL_LEGGINGS CHAINMAIL_BOOTS CHAINMAIL_CHESTPLATE
+2012-03-03 19:23:55 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD IRON_AXE GOLD_AXE DIAMOND_AXE
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Root defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Might defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Charge defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill One defined for Warrior not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Warrior
+2012-03-03 19:23:55 [INFO] [Heroes] version 1.4.5-b1214 is enabled!
+2012-03-03 19:24:09 [WARNING] [Debug] Citizen has no permitted-armor section
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Weapons -  FISHING_ROD SHEARS STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE
+2012-03-03 19:24:09 [INFO] [Debug] Skill Herbalism Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Bolt Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Root Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Wisdom Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Harmtouch Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill PickPocket Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Sheep Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Bandage Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Pray Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Repair Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Slow Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Light Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Woodcutting Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Backstab Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Dispel Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill SuperJump Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Summonfood Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Mark Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Poison Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Gills Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Smoke Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill GroupHeal Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Jump Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Superheat Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Antidote Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Shield Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill IceArrow Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Cow Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Icebolt Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Port Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Might Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Mining Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill One Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Excavate Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Potion Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill SummonArrow Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Pig Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Layhands Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Alchemy Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Safefall Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Invuln Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill FireArrow Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill EscapeArtist Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Web Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill PoisonArrow Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Smite Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Disenchant Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Piggify Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Chicken Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Charge Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Blink Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Wolf Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill AssassinsBlade Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Recall Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Bleed Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Confuse Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Curse Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Taunt Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Fishing Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Telekinesis Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Enchant Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Sneak Loaded
+2012-03-03 19:24:09 [INFO] [Debug] Skill Fireball Loaded
+2012-03-03 19:24:09 [INFO] [Heroes] Default class found: Citizen
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Citizen
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS DIAMOND_HELMET DIAMOND_LEGGINGS DIAMOND_CHESTPLATE DIAMOND_BOOTS
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Cleric
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Mage
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD GOLD_SWORD DIAMOND_SWORD BOW
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Rogue
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS CHAINMAIL_HELMET CHAINMAIL_LEGGINGS CHAINMAIL_BOOTS CHAINMAIL_CHESTPLATE
+2012-03-03 19:24:09 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD IRON_AXE GOLD_AXE DIAMOND_AXE
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Warrior
+2012-03-03 19:24:09 [INFO] [Heroes] version 1.4.5-b1214 is enabled!
+2012-03-08 13:46:21 [WARNING] [Debug] Citizen has no permitted-armor section
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Weapons -  FISHING_ROD SHEARS STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE
+2012-03-08 13:46:21 [INFO] [Debug] Skill Herbalism Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Bolt Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Root Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Wisdom Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Harmtouch Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill PickPocket Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Sheep Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Bandage Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Pray Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Repair Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Slow Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Light Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Woodcutting Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Backstab Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Dispel Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill SuperJump Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Summonfood Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Mark Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Poison Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Gills Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Smoke Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill GroupHeal Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Jump Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Superheat Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Antidote Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Shield Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill IceArrow Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Cow Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Icebolt Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Port Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Might Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Mining Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill One Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Excavate Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Potion Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill SummonArrow Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Pig Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Layhands Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Alchemy Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Safefall Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Invuln Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill FireArrow Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill EscapeArtist Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Web Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill PoisonArrow Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Smite Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Disenchant Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Piggify Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Chicken Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Charge Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Blink Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Wolf Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill AssassinsBlade Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Recall Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Bleed Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Confuse Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Curse Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Taunt Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Fishing Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Telekinesis Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Enchant Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Sneak Loaded
+2012-03-08 13:46:21 [INFO] [Debug] Skill Fireball Loaded
+2012-03-08 13:46:21 [INFO] [Heroes] Default class found: Citizen
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Citizen
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS DIAMOND_HELMET DIAMOND_LEGGINGS DIAMOND_CHESTPLATE DIAMOND_BOOTS
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Cleric
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Mage
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD GOLD_SWORD DIAMOND_SWORD BOW
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Rogue
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS CHAINMAIL_HELMET CHAINMAIL_LEGGINGS CHAINMAIL_BOOTS CHAINMAIL_CHESTPLATE
+2012-03-08 13:46:21 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD IRON_AXE GOLD_AXE DIAMOND_AXE
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Warrior
+2012-03-08 13:46:21 [INFO] [Heroes] version 1.4.5-b1214 is enabled!
+2012-03-08 13:48:34 [WARNING] [Debug] Citizen has no permitted-armor section
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Weapons -  FISHING_ROD SHEARS STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE
+2012-03-08 13:48:34 [INFO] [Debug] Skill Herbalism Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Bolt Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Root Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Wisdom Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Harmtouch Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill PickPocket Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Sheep Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Bandage Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Pray Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Repair Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Slow Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Light Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Woodcutting Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Backstab Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Dispel Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill SuperJump Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Summonfood Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Mark Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Poison Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Gills Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Smoke Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill GroupHeal Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Jump Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Superheat Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Antidote Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Shield Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill IceArrow Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Cow Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Icebolt Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Port Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Might Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Mining Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill One Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Excavate Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Potion Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill SummonArrow Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Pig Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Layhands Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Alchemy Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Safefall Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Invuln Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill FireArrow Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill EscapeArtist Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Web Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill PoisonArrow Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Smite Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Disenchant Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Piggify Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Chicken Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Charge Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Blink Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Wolf Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill AssassinsBlade Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Recall Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Bleed Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Confuse Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Curse Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Taunt Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Fishing Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Telekinesis Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Enchant Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Sneak Loaded
+2012-03-08 13:48:34 [INFO] [Debug] Skill Fireball Loaded
+2012-03-08 13:48:34 [INFO] [Heroes] Default class found: Citizen
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Citizen
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS DIAMOND_HELMET DIAMOND_LEGGINGS DIAMOND_CHESTPLATE DIAMOND_BOOTS
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Cleric
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SPADE STONE_HOE IRON_PICKAXE
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Mage
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD GOLD_SWORD DIAMOND_SWORD BOW
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Rogue
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Armor -  LEATHER_HELMET LEATHER_LEGGINGS LEATHER_BOOTS LEATHER_CHESTPLATE IRON_HELMET IRON_LEGGINGS IRON_CHESTPLATE IRON_BOOTS CHAINMAIL_HELMET CHAINMAIL_LEGGINGS CHAINMAIL_BOOTS CHAINMAIL_CHESTPLATE
+2012-03-08 13:48:34 [INFO] [Debug] Allowed Weapons -  WOOD_PICKAXE WOOD_AXE WOOD_SWORD WOOD_SPADE WOOD_HOE STONE_PICKAXE STONE_AXE STONE_SWORD STONE_SPADE STONE_HOE IRON_PICKAXE IRON_SWORD IRON_AXE GOLD_AXE DIAMOND_AXE
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Warrior
+2012-03-08 13:48:34 [INFO] [Heroes] version 1.4.5-b1214 is enabled!

@@ -1,0 +1,337 @@
+2012-03-03 18:15:48 [INFO] Starting minecraft server version 1.0.0
+2012-03-03 18:15:48 [INFO] Loading properties
+2012-03-03 18:15:48 [WARNING] server.properties does not exist
+2012-03-03 18:15:48 [INFO] Generating new properties file
+2012-03-03 18:15:48 [INFO] Starting Minecraft server on *:25565
+2012-03-03 18:15:48 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2012-03-03 18:15:48 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2012-03-03 18:15:48 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2012-03-03 18:15:48 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2012-03-03 18:15:48 [INFO] Preparing level "world"
+2012-03-03 18:15:48 [INFO] Default game type: 0
+2012-03-03 18:15:48 [INFO] Preparing start region for level 0
+2012-03-03 18:15:49 [INFO] Preparing spawn area: 24%
+2012-03-03 18:15:50 [INFO] Preparing spawn area: 53%
+2012-03-03 18:15:51 [INFO] Preparing spawn area: 85%
+2012-03-03 18:15:52 [INFO] Done (3785465489ns)! For help, type "help" or "?"
+2012-03-03 18:16:01 [INFO] Stopping server
+2012-03-03 18:16:01 [INFO] Saving chunks
+2012-03-03 18:16:04 [INFO] Saving chunks
+2012-03-03 18:16:04 [INFO] Saving chunks
+2012-03-03 18:44:31 [INFO] Starting minecraft server version 1.0.0
+2012-03-03 18:44:31 [INFO] Loading properties
+2012-03-03 18:44:31 [INFO] Starting Minecraft server on *:25565
+2012-03-03 18:44:31 [INFO] Preparing level "world"
+2012-03-03 18:44:31 [INFO] Default game type: 0
+2012-03-03 18:44:31 [INFO] Preparing start region for level 0
+2012-03-03 18:44:32 [INFO] Preparing spawn area: 28%
+2012-03-03 18:44:33 [INFO] Preparing spawn area: 65%
+2012-03-03 18:44:34 [INFO] Done (2995321730ns)! For help, type "help" or "?"
+2012-03-03 18:44:38 [INFO] Stopping server
+2012-03-03 18:44:38 [INFO] Saving chunks
+2012-03-03 18:44:44 [INFO] Saving chunks
+2012-03-03 18:44:44 [INFO] Saving chunks
+2012-03-03 18:54:17 [INFO] Starting minecraft server version 1.1
+2012-03-03 18:54:17 [INFO] Loading properties
+2012-03-03 18:54:17 [INFO] Starting Minecraft server on *:25565
+2012-03-03 18:54:17 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R6-b1988jnks (MC: 1.1) (Implementing API version 1.1-R6)
+2012-03-03 18:54:17 [INFO] Preparing level "world"
+2012-03-03 18:54:17 [INFO] Default game type: 0
+2012-03-03 18:54:17 [INFO] ---- Migration of old nether folder required ----
+2012-03-03 18:54:17 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+2012-03-03 18:54:17 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-03 18:54:17 [INFO] Attempting to move world\DIM-1 to world_nether\DIM-1...
+2012-03-03 18:54:17 [INFO] Success! To restore nether in the future, simply move world_nether\DIM-1 to world\DIM-1
+2012-03-03 18:54:17 [INFO] ---- Migration of old nether folder complete ----
+2012-03-03 18:54:17 [INFO] ---- Migration of old the_end folder required ----
+2012-03-03 18:54:17 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+2012-03-03 18:54:17 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-03 18:54:17 [INFO] Attempting to move world\DIM1 to world_the_end\DIM1...
+2012-03-03 18:54:17 [INFO] Success! To restore the_end in the future, simply move world_the_end\DIM1 to world\DIM1
+2012-03-03 18:54:17 [INFO] ---- Migration of old the_end folder complete ----
+2012-03-03 18:54:17 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 18:54:18 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 18:54:18 [INFO] Preparing spawn area: 8%
+2012-03-03 18:54:19 [INFO] Preparing spawn area: 24%
+2012-03-03 18:54:20 [INFO] Preparing spawn area: 48%
+2012-03-03 18:54:21 [INFO] Preparing spawn area: 89%
+2012-03-03 18:54:22 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 18:54:23 [INFO] Preparing spawn area: 65%
+2012-03-03 18:54:23 [INFO] Done (5.560s)! For help, type "help" or "?"
+2012-03-03 19:09:35 [INFO] Starting minecraft server version 1.0.1
+2012-03-03 19:09:35 [INFO] Loading properties
+2012-03-03 19:09:35 [INFO] Starting Minecraft server on *:25565
+2012-03-03 19:09:35 [INFO] This server is running Craftbukkit version git-Bukkit-1.0.1-R1-b1597jnks (MC: 1.0.1) (Implementing API version 1.0.1-R1)
+2012-03-03 19:09:35 [INFO] Preparing level "world"
+2012-03-03 19:09:35 [INFO] Default game type: 0
+2012-03-03 19:09:35 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 19:09:35 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 19:09:35 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 19:09:36 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-03 19:09:36 [INFO] Done (0.089s)! For help, type "help" or "?"
+2012-03-03 19:09:49 [INFO] Unknown command. Type "help" for help.
+2012-03-03 19:09:52 [INFO] Unknown command. Type "help" for help.
+2012-03-03 19:11:16 [INFO] Starting minecraft server version 1.0.1
+2012-03-03 19:11:16 [INFO] Loading properties
+2012-03-03 19:11:16 [INFO] Starting Minecraft server on *:25565
+2012-03-03 19:11:16 [INFO] This server is running Craftbukkit version git-Bukkit-1.0.1-R1-b1597jnks (MC: 1.0.1) (Implementing API version 1.0.1-R1)
+2012-03-03 19:11:16 [SEVERE] Could not load 'plugins\Heroes.jar' in folder 'plugins': Vault
+org.bukkit.plugin.UnknownDependencyException: Vault
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:135)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:215)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:136)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:151)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:127)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:52)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:145)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:399)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:457)
+2012-03-03 19:11:16 [INFO] Preparing level "world"
+2012-03-03 19:11:16 [INFO] Default game type: 0
+2012-03-03 19:11:16 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 19:11:17 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 19:11:17 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 19:11:17 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-03 19:11:17 [INFO] Done (0.089s)! For help, type "help" or "?"
+2012-03-03 19:12:36 [INFO] Starting minecraft server version 1.1
+2012-03-03 19:12:36 [INFO] Loading properties
+2012-03-03 19:12:36 [INFO] Starting Minecraft server on *:25565
+2012-03-03 19:12:36 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R6-b1988jnks (MC: 1.1) (Implementing API version 1.1-R6)
+2012-03-03 19:12:37 [SEVERE] Could not load 'plugins\Heroes.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Vault
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:176)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:206)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:182)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:53)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:147)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:407)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:465)
+2012-03-03 19:12:37 [INFO] Preparing level "world"
+2012-03-03 19:12:37 [INFO] Default game type: 0
+2012-03-03 19:12:37 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 19:12:37 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 19:12:37 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 19:12:37 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-03 19:12:37 [INFO] Done (0.885s)! For help, type "help" or "?"
+2012-03-03 19:16:04 [INFO] Starting minecraft server version 1.1
+2012-03-03 19:16:04 [INFO] Loading properties
+2012-03-03 19:16:04 [INFO] Starting Minecraft server on *:25565
+2012-03-03 19:16:04 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R6-b1988jnks (MC: 1.1) (Implementing API version 1.1-R6)
+2012-03-03 19:16:04 [SEVERE] Could not load 'plugins\Heroes.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Vault
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:176)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:206)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:182)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:53)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:147)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:407)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:465)
+2012-03-03 19:16:04 [INFO] Preparing level "world"
+2012-03-03 19:16:04 [INFO] Default game type: 0
+2012-03-03 19:16:04 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 19:16:05 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 19:16:05 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 19:16:05 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-03 19:16:05 [INFO] Done (0.885s)! For help, type "help" or "?"
+2012-03-03 19:19:01 [INFO] Starting minecraft server version 1.1
+2012-03-03 19:19:01 [INFO] Loading properties
+2012-03-03 19:19:01 [INFO] Starting Minecraft server on *:25565
+2012-03-03 19:19:01 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R4-b1938jnks (MC: 1.1) (Implementing API version 1.1-R4)
+2012-03-03 19:19:01 [SEVERE] Could not load 'plugins\Heroes.jar' in folder 'plugins': 
+org.bukkit.plugin.UnknownDependencyException: Vault
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:166)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:164)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:140)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:52)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:148)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:408)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:465)
+2012-03-03 19:19:01 [INFO] Preparing level "world"
+2012-03-03 19:19:01 [INFO] Default game type: 0
+2012-03-03 19:19:01 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 19:19:02 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 19:19:02 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 19:19:02 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-03 19:19:02 [INFO] Done (0.919s)! For help, type "help" or "?"
+2012-03-03 19:23:54 [INFO] Starting minecraft server version 1.1
+2012-03-03 19:23:54 [INFO] Loading properties
+2012-03-03 19:23:54 [INFO] Starting Minecraft server on *:25565
+2012-03-03 19:23:54 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R4-b1938jnks (MC: 1.1) (Implementing API version 1.1-R4)
+2012-03-03 19:23:54 [INFO] [Vault] Loading Vault v1.2.12-b136.
+2012-03-03 19:23:54 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-03 19:23:54 [SEVERE] Error occurred while enabling Vault v1.2.12-b136 (Is it up to date?): org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+java.lang.NoSuchMethodError: org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+	at net.milkbowl.vault.Vault.onEnable(Vault.java:137)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:230)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:1057)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:380)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugin(CraftServer.java:199)
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:182)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:141)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:52)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:148)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:408)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:465)
+2012-03-03 19:23:54 [INFO] Preparing level "world"
+2012-03-03 19:23:54 [INFO] Default game type: 0
+2012-03-03 19:23:54 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 19:23:54 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 19:23:55 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 19:23:55 [INFO] [Heroes] Loading Heroes v1.4.5-b1214.
+2012-03-03 19:23:55 [WARNING] [Heroes] File experience.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File damages.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File recipes.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File citizen.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File rogue.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File cleric.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File mage.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File warrior.yml not found - generating defaults.
+2012-03-03 19:23:55 [WARNING] [Heroes] File permission-skills.yml not found - generating defaults.
+2012-03-03 19:23:55 [INFO] [Heroes] Default class found: Citizen
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Citizen
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Port defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Invuln defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Pray defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Harmtouch defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Wisdom defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Slow defined for Cleric not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Groupheal defined for Cleric not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Cleric
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Port defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Icebolt defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Piggify defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Fireball defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Wisdom defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Wolf defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Blink defined for Mage not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Web defined for Mage not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Mage
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Port defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Sneak defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Jump defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill AssassinsBlade defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill EscapeArtist defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Smoke defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Backstab defined for Rogue not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Curse defined for Rogue not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Rogue
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Mark defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Recall defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Root defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Might defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill Charge defined for Warrior not found.
+2012-03-03 19:23:55 [WARNING] [Heroes] Skill One defined for Warrior not found.
+2012-03-03 19:23:55 [INFO] [Heroes] Loaded class: Warrior
+2012-03-03 19:23:55 [INFO] [Heroes] version 1.4.5-b1214 is enabled!
+2012-03-03 19:23:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-03 19:23:55 [INFO] Done (1.053s)! For help, type "help" or "?"
+2012-03-03 19:24:07 [INFO] Starting minecraft server version 1.1
+2012-03-03 19:24:07 [INFO] Loading properties
+2012-03-03 19:24:07 [INFO] Starting Minecraft server on *:25565
+2012-03-03 19:24:08 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R4-b1938jnks (MC: 1.1) (Implementing API version 1.1-R4)
+2012-03-03 19:24:08 [INFO] [Vault] Loading Vault v1.2.12-b136.
+2012-03-03 19:24:08 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-03 19:24:08 [SEVERE] Error occurred while enabling Vault v1.2.12-b136 (Is it up to date?): org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+java.lang.NoSuchMethodError: org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+	at net.milkbowl.vault.Vault.onEnable(Vault.java:137)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:230)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:1057)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:380)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugin(CraftServer.java:199)
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:182)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:141)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:52)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:148)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:408)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:465)
+2012-03-03 19:24:08 [INFO] Preparing level "world"
+2012-03-03 19:24:08 [INFO] Default game type: 0
+2012-03-03 19:24:08 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-03 19:24:08 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-03 19:24:08 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-03 19:24:09 [INFO] [Heroes] Loading Heroes v1.4.5-b1214.
+2012-03-03 19:24:09 [INFO] [Heroes] Default class found: Citizen
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Citizen
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Cleric
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Mage
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Rogue
+2012-03-03 19:24:09 [INFO] [Heroes] Loaded class: Warrior
+2012-03-03 19:24:09 [INFO] [Heroes] version 1.4.5-b1214 is enabled!
+2012-03-03 19:24:09 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-03 19:24:09 [INFO] Done (1.213s)! For help, type "help" or "?"
+2012-03-08 13:46:19 [INFO] Starting minecraft server version 1.1
+2012-03-08 13:46:19 [INFO] Loading properties
+2012-03-08 13:46:19 [INFO] Starting Minecraft server on *:25565
+2012-03-08 13:46:19 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R4-b1938jnks (MC: 1.1) (Implementing API version 1.1-R4)
+2012-03-08 13:46:19 [INFO] [Vault] Loading Vault v1.2.12-b136.
+2012-03-08 13:46:19 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-08 13:46:19 [SEVERE] Error occurred while enabling Vault v1.2.12-b136 (Is it up to date?): org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+java.lang.NoSuchMethodError: org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+	at net.milkbowl.vault.Vault.onEnable(Vault.java:137)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:230)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:1057)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:380)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugin(CraftServer.java:199)
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:182)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:141)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:52)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:148)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:408)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:465)
+2012-03-08 13:46:19 [INFO] Preparing level "world"
+2012-03-08 13:46:19 [INFO] Default game type: 0
+2012-03-08 13:46:19 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-08 13:46:20 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-08 13:46:20 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-08 13:46:20 [INFO] Preparing spawn area: 36%
+2012-03-08 13:46:21 [INFO] [Heroes] Loading Heroes v1.4.5-b1214.
+2012-03-08 13:46:21 [INFO] [Heroes] Default class found: Citizen
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Citizen
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Cleric
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Mage
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Rogue
+2012-03-08 13:46:21 [INFO] [Heroes] Loaded class: Warrior
+2012-03-08 13:46:21 [INFO] [Heroes] version 1.4.5-b1214 is enabled!
+2012-03-08 13:46:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-08 13:46:21 [INFO] Done (2.314s)! For help, type "help" or "?"
+2012-03-08 13:46:31 [INFO] Stopping server
+2012-03-08 13:48:32 [INFO] Starting minecraft server version 1.1
+2012-03-08 13:48:32 [INFO] Loading properties
+2012-03-08 13:48:32 [INFO] Starting Minecraft server on 5.35.211.134:25565
+2012-03-08 13:48:32 [INFO] This server is running CraftBukkit version git-Bukkit-1.1-R4-b1938jnks (MC: 1.1) (Implementing API version 1.1-R4)
+2012-03-08 13:48:32 [INFO] [Vault] Loading Vault v1.2.12-b136.
+2012-03-08 13:48:32 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-08 13:48:32 [SEVERE] Error occurred while enabling Vault v1.2.12-b136 (Is it up to date?): org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+java.lang.NoSuchMethodError: org.bukkit.plugin.PluginDescriptionFile.getAuthors()Ljava/util/List;
+	at net.milkbowl.vault.Vault.onEnable(Vault.java:137)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:230)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:1057)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:380)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugin(CraftServer.java:199)
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:182)
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:141)
+	at net.minecraft.server.ServerConfigurationManager.<init>(ServerConfigurationManager.java:52)
+	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:148)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:408)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:465)
+2012-03-08 13:48:32 [INFO] Preparing level "world"
+2012-03-08 13:48:33 [INFO] Default game type: 0
+2012-03-08 13:48:33 [INFO] Preparing start region for level 0 (Seed: 7225215524420001656)
+2012-03-08 13:48:33 [INFO] Preparing start region for level 1 (Seed: 4745186033313147263)
+2012-03-08 13:48:33 [INFO] Preparing start region for level 2 (Seed: 4745186033313147263)
+2012-03-08 13:48:33 [INFO] [Heroes] Loading Heroes v1.4.5-b1214.
+2012-03-08 13:48:34 [INFO] [Heroes] Default class found: Citizen
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Citizen
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Cleric
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Mage
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Rogue
+2012-03-08 13:48:34 [INFO] [Heroes] Loaded class: Warrior
+2012-03-08 13:48:34 [INFO] [Heroes] version 1.4.5-b1214 is enabled!
+2012-03-08 13:48:34 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-08 13:48:34 [INFO] Done (1.215s)! For help, type "help" or "?"

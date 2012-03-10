@@ -1,0 +1,431 @@
+Herbalism:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  chance-per-level: 0.001
+Bolt:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  damage: 4
+Root:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  duration: 5000
+Wisdom:
+  use-text: '%hero% used %skill%!'
+  regen-multiplier: 1.2
+  radius: 10
+  duration: 600000
+Harmtouch:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  damage: 10
+PickPocket:
+  use-text: ''
+  max-distance: 15
+  base-chance: 0.1
+  chance-per-level: 0.003
+  failure-message: '%hero% failed to steal from %target%!'
+  noisy-success-message: '%hero% stole %target%s %item%!'
+  disallowed-items:
+  - ''
+  always-steal-all: true
+  max-stolen: 64
+Sheep:
+  use-text: '%hero% used %skill%!'
+  chance-2x: 0.2
+  chance-3x: 0.1
+  max-distance: 20
+  chance-2x-per-level: 0.0
+  chance-3x-per-level: 0.0
+Bandage:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 5
+  health: 5
+  reagent: 339
+  reagent-cost: 1
+Pray:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 25
+  health: 10
+Repair:
+  use-text: '%hero% used %skill%!'
+  wood-weapons: 1
+  stone-weapons: 1
+  iron-weapons: 1
+  gold-weapons: 1
+  diamond-weapons: 1
+  leather-armor: 1
+  iron-armor: 1
+  chain-armor: 1
+  gold-armor: 1
+  diamond-armor: 1
+  wood-tools: 1
+  stone-tools: 1
+  iron-tools: 1
+  gold-tools: 1
+  diamond-tools: 1
+  fishing-rod: 1
+  shears: 1
+  flint-steel: 1
+  unchant-chance: 0.5
+  unchant-chance-reduce: 0.005
+Slow:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  speed-multiplier: 2
+  duration: 15000
+  apply-text: '%target% has been slowed by %hero%!'
+  expire-text: '%target% is no longer slowed!'
+Light:
+  use-text: '%hero% used %skill%!'
+  duration: 30000
+  period: 200
+  apply-text: '%hero% is lighting the way.'
+  expire-text: '%hero% is no longer lighting the way'
+Woodcutting:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  chance-per-level: 0.001
+Backstab:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  weapons:
+  - WOOD_SWORD
+  - STONE_SWORD
+  - IRON_SWORD
+  - GOLD_SWORD
+  - DIAMOND_SWORD
+  attack-bonus: 1.5
+  attack-chance: 0.5
+  sneak-bonus: 2.0
+  sneak-chance: 1.0
+  use-text: '%hero% backstabbed %target%!'
+Dispel:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  max-removals: 3
+SuperJump:
+  use-text: '%hero% used %skill%!'
+  duration: 5000
+  jump-force: 4.0
+Summonfood:
+  use-text: '%hero% used %skill%!'
+  food-type: BREAD
+  amount: 1
+Mark:
+  use-text: '%hero% used %skill%!'
+Poison:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  duration: 10000
+  period: 2000
+  tick-damage: 1
+  expire-text: '%target% has recovered from the poison!'
+Gills:
+  use-text: '%hero% used %skill%!'
+  duration: 30000
+  apply-text: '%hero% has grown a set of gills!'
+  expire-text: '%hero% lost his gills!'
+Smoke:
+  use-text: '%hero% used %skill%!'
+  duration: 20000
+  apply-text: '%hero% vanished in a cloud of smoke!'
+  expire-text: '%hero% reappeared!'
+GroupHeal:
+  use-text: '%hero% used %skill%!'
+  heal-amount: 2
+  radius: 5
+Jump:
+  use-text: '%hero% used %skill%!'
+  no-air-jump: true
+Superheat:
+  use-text: '%hero% used %skill%!'
+  duration: 20000
+  apply-text: '%hero%''s pick has become superheated!'
+  expire-text: '%hero%''s pick has cooled down!'
+Antidote:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+Shield:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  iron-door: 0.75
+  wooden-door: 0.85
+  trapdoor: 0.6
+IceArrow:
+  use-text: '%hero% imbues their arrows with ice!'
+  duration: 5000
+  speed-multiplier: 2
+  mana-per-shot: 1
+  apply-text: '%target% is slowed by ice!'
+  expire-text: '%hero%''s arrows are no longer imbued with ice!'
+Cow:
+  use-text: '%hero% used %skill%!'
+  chance-2x: 0.2
+  chance-3x: 0.1
+  max-distance: 20
+  chance-2x-per-level: 0.0
+  chance-3x-per-level: 0.0
+Icebolt:
+  use-text: '%hero% used %skill%!'
+  damage: 3
+  slow-duration: 5000
+  speed-multiplier: 2
+  apply-text: '%target% has been slowed by %hero%!'
+  expire-text: '%target% is no longer slowed!'
+Port:
+  use-text: '%hero% used %skill%!'
+  radius: 10
+Might:
+  use-text: '%hero% used %skill%!'
+  damage-bonus: 1.25
+  radius: 10
+  apply-text: Your muscles bulge with power!
+  expire-text: You feel strength leave your body!
+  duration: 600000
+Mining:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  chance-per-level: 0.001
+  chance-from-stone: 5.0E-4
+One:
+  use-text: '%hero% used %skill%!'
+  speed-multiplier: 2
+  duration: 15000
+  apply-text: '%hero% gained a burst of speed!'
+  expire-text: '%hero% returned to normal speed!'
+Excavate:
+  use-text: '%hero% used %skill%!'
+  speed-multiplier: 2
+  duration-per-level: 100
+  apply-text: '%hero% begins excavating!'
+  expire-text: '%hero% is no longer excavating!'
+Potion:
+  allow:
+    poison: false
+    healing: false
+    regeneration: false
+    swiftness: false
+    fire-resistance: false
+    harming: false
+    weakness: false
+    strength: false
+    slowness: false
+    swiftness-II: false
+    regeneration-II: false
+    poison-II: false
+    healing-II: false
+    strength-II: false
+    harming-II: false
+    splash-poison: false
+    splash-healing: false
+    splash-regeneration: false
+    splash-swiftness: false
+    splash-fire-resistance: false
+    splash-harming: false
+    splash-weakness: false
+    splash-strength: false
+    splash-slowness: false
+    splash-swiftness-II: false
+    splash-regeneration-II: false
+    splash-poison-II: false
+    splash-healing-II: false
+    splash-strength-II: false
+    splash-harming-II: false
+  cooldown:
+    poison: 600000
+    healing: 600000
+    regeneration: 600000
+    swiftness: 600000
+    fire-resistance: 600000
+    harming: 600000
+    weakness: 600000
+    strength: 600000
+    slowness: 600000
+    swiftness-II: 600000
+    regeneration-II: 600000
+    poison-II: 600000
+    healing-II: 600000
+    strength-II: 600000
+    harming-II: 600000
+    splash-poison: 600000
+    splash-healing: 600000
+    splash-regeneration: 600000
+    splash-swiftness: 600000
+    splash-fire-resistance: 600000
+    splash-harming: 600000
+    splash-weakness: 600000
+    splash-strength: 600000
+    splash-slowness: 600000
+    splash-swiftness-II: 600000
+    splash-regeneration-II: 600000
+    splash-poison-II: 600000
+    splash-healing-II: 600000
+    splash-strength-II: 600000
+    splash-harming-II: 600000
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  level: 1
+SummonArrow:
+  use-text: '%hero% used %skill%!'
+  amount: 2
+Pig:
+  use-text: '%hero% used %skill%!'
+  chance-2x: 0.2
+  chance-3x: 0.1
+  max-distance: 20
+  chance-2x-per-level: 0.0
+  chance-3x-per-level: 0.0
+Layhands:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+Alchemy:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  level: 1
+Safefall:
+  use-text: '%hero% used %skill%!'
+  duration: 20000
+Invuln:
+  use-text: '%hero% used %skill%!'
+  duration: 10000
+  apply-text: '%hero% has become invulnerable!'
+  expire-text: '%hero% is once again vulnerable!'
+FireArrow:
+  use-text: '%hero% used %skill%!'
+  mana-per-shot: 1
+  fire-ticks: 100
+EscapeArtist:
+  use-text: '%hero% used %skill%!'
+Web:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  duration: 5000
+  apply-text: '%hero% conjured a web at %target%''s feet!'
+PoisonArrow:
+  use-text: '%hero% imbues their arrows with poison!'
+  duration: 10000
+  period: 2000
+  mana-per-shot: 1
+  tick-damage: 2
+  apply-text: '%target% is poisoned!'
+  expire-text: '%target% has recovered from the poison!'
+Smite:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  damage: 10
+Disenchant:
+  use-text: '%hero% used %skill%!'
+Piggify:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  duration: 10000
+Chicken:
+  use-text: '%hero% used %skill%!'
+  chance-2x: 0.2
+  chance-3x: 0.1
+  max-distance: 20
+  chance-2x-per-level: 0.0
+  chance-3x-per-level: 0.0
+Charge:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  stun-duration: 5000
+  slow-duration: 0
+  root-duration: 0
+  silence-duration: 0
+  damage: 0
+  radius: 2
+Blink:
+  use-text: '%hero% used %skill%!'
+  max-distance: 6
+  restrict-ender-perls: true
+Wolf:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+AssassinsBlade:
+  use-text: '%hero% used %skill%!'
+  weapons:
+  - WOOD_SWORD
+  - STONE_SWORD
+  - IRON_SWORD
+  - GOLD_SWORD
+  - DIAMOND_SWORD
+  buff-duration: 600000
+  poison-duration: 10000
+  period: 2000
+  tick-damage: 2
+  attacks: 1
+  apply-text: '%target% is poisoned!'
+  expire-text: '%target% has recovered from the poison!'
+Recall:
+  use-text: '%hero% used %skill%!'
+Bleed:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  duration: 10000
+  period: 2000
+  tick-damage: 1
+  apply-text: '%target% is bleeding!'
+  expire-text: '%target% has stopped bleeding!'
+Confuse:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  duration: 10000
+  period: 1000
+  max-drift: 0.35
+  apply-text: '%target% is confused!'
+  expire-text: '%target% has regained his wit!'
+Curse:
+  use-text: '%hero% used %skill% on %target%!'
+  max-distance: 15
+  duration: 5000
+  miss-chance: 0.5
+  miss-text: '%target% misses an attack!'
+  apply-text: '%target% has been cursed!'
+  expire-text: '%target% has recovered from the curse!'
+Taunt:
+  use-text: '%hero% used %skill%!'
+Fishing:
+  apply-text: '%hero% gained %skill%!'
+  unapply-text: '%hero% lost %skill%!'
+  chance-per-level: 0.001
+  leather-level: 5
+  enable-leather: false
+Telekinesis:
+  use-text: '%hero% used %skill%!'
+  max-distance: 15
+Enchant:
+  apply-text: ''
+  unapply-text: ''
+  PROTECTION_ENVIRONMENTAL: 200
+  PROTECTION_FIRE: 1
+  PROTECTION_FALL: 1
+  PROTECTION_EXPLOSIONS: 200
+  PROTECTION_PROJECTILE: 200
+  OXYGEN: 1
+  WATER_WORKER: 1
+  DAMAGE_ALL: 200
+  DAMAGE_UNDEAD: 200
+  DAMAGE_ARTHROPODS: 200
+  KNOCKBACK: 1
+  FIRE_ASPECT: 1
+  LOOT_BONUS_MOBS: 1
+  DIG_SPEED: 1
+  SILK_TOUCH: 200
+  DURABILITY: 1
+  LOOT_BONUS_BLOCKS: 1
+  ARROW_DAMAGE: 200
+  ARROW_KNOCKBACK: 1
+  ARROW_FIRE: 1
+  ARROW_INFINITE: 1
+Sneak:
+  use-text: '%hero% used %skill%!'
+  duration: 600000
+  damage-cancels: true
+  attacking-cancels: true
+  refresh-interval: 5000
+Fireball:
+  use-text: '%hero% used %skill%!'
+  damage: 4
+  fire-ticks: 100

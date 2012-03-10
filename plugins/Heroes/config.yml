@@ -1,0 +1,55 @@
+leveling:
+  exp-curve: 1.0
+  max-exp: 100000
+  max-level: 50
+  exp-loss: 0.1
+  pvp-exp-loss: 1.0
+  max-party-size: 6
+  party-exp-bonus: 1.0
+  level-loss: false
+  mastery-loss: false
+  spawner-checks: false
+  spawner-radius: 7
+  spawner-exp-mult: 0.5
+  reset-on-death: false
+  pvp-range: 50
+  dump-exp-file: false
+classes:
+  swap-cost: 0
+  old-swap-cost: 0
+  prof-swap-cost: 0
+  old-prof-swap-cost: 0
+  master-swap-free: true
+  first-swap-free: true
+  use-prefix: false
+  reset-exp-on-change: true
+  reset-master-on-change: false
+  reset-prof-master-on-change: false
+  reset-prof-on-pri-change: false
+  lock-till-master: false
+  lock-at-max-level: false
+properties:
+  storage-type: yml
+  economy: false
+  debug: false
+  enchant-exp-mult: 3
+  global-cooldown: 1
+  block-tracking-duration: 900000
+  max-tracked-blocks: 2000
+  food-heal-percent: 0.05
+  slow-while-casting: true
+bed:
+  enabled: true
+  interval: 15
+  percent: 5
+mana:
+  interval: 5
+  percent: 5
+hats:
+  level: 1
+  enabled: false
+worlds:
+  disabled:
+  - World1
+  - World2
+  - World3
